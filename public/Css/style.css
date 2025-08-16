@@ -44,3 +44,16 @@
     font-size: 4rem;
     margin-block-end: 0.2rem;
 }
+
+.text-detail{
+    color: #E50914;
+}
+
+.more{
+    transition: transform 0.3s ease;
+}
+
+.more:hover{
+    transform: scale(1.06);
+    background-color: rgb(252, 79, 79);
+}
