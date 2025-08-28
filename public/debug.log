@@ -1,0 +1,636 @@
+Array
+(
+    [name] => avatar3.png
+    [tmp_name] => C:\Users\NathanSpm\Documents\ECE\Projets\Devoir_Substitution\public/assets/avatar3.png
+    [size] => 128052
+    [type] => image/png
+    [error] => 0
+)
+Cloudinary\Api\ApiResponse Object
+(
+    [rateLimitResetAt] => 
+    [rateLimitAllowed] => 0
+    [rateLimitRemaining] => 0
+    [headers] => Array
+        (
+            [Date] => Array
+                (
+                    [0] => Tue, 19 Aug 2025 03:48:03 GMT
+                )
+
+            [Content-Type] => Array
+                (
+                    [0] => application/json; charset=utf-8
+                )
+
+            [Transfer-Encoding] => Array
+                (
+                    [0] => chunked
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Accept-Encoding
+                )
+
+            [Status] => Array
+                (
+                    [0] => 200 OK
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => max-age=0, private, must-revalidate
+                )
+
+            [X-XSS-Protection] => Array
+                (
+                    [0] => 1; mode=block
+                )
+
+            [X-Request-Id] => Array
+                (
+                    [0] => 1dcdb91f387c2d113fbd88d2df602130
+                )
+
+            [X-UA-Compatible] => Array
+                (
+                    [0] => IE=Edge,chrome=1
+                )
+
+            [ETag] => Array
+                (
+                    [0] => "a2860d54e60eda4664b5f3fbffda114b"
+                )
+
+            [Server] => Array
+                (
+                    [0] => cloudinary
+                )
+
+        )
+
+    [storage:ArrayObject:private] => Array
+        (
+            [asset_id] => 7f962a1fca8e5675a3a73f794b28f594
+            [public_id] => users_picture_profile/user_68a3f3aba6bbf1.37517928
+            [version] => 1755575282
+            [version_id] => cd9916911a2e36f3692a2b44ee1bb660
+            [signature] => c6d4d9e056a0e9d3ef8b6b4839579787321c6c52
+            [width] => 775
+            [height] => 775
+            [format] => png
+            [resource_type] => image
+            [created_at] => 2025-08-19T03:48:02Z
+            [tags] => Array
+                (
+                )
+
+            [bytes] => 128052
+            [type] => upload
+            [etag] => 2ef369ffe30166a9749bf9d4fc2430bb
+            [placeholder] => 
+            [url] => http://res.cloudinary.com/dghnwzbla/image/upload/v1755575282/users_picture_profile/user_68a3f3aba6bbf1.37517928.png
+            [secure_url] => https://res.cloudinary.com/dghnwzbla/image/upload/v1755575282/users_picture_profile/user_68a3f3aba6bbf1.37517928.png
+            [asset_folder] => users_picture_profile
+            [display_name] => user_68a3f3aba6bbf1.37517928
+            [original_filename] => avatar3
+            [api_key] => 285744794393346
+        )
+
+)
+Array
+(
+    [name] => avatar3.png
+    [tmp_name] => C:\Users\NathanSpm\Documents\ECE\Projets\Devoir_Substitution\public/assets/avatar3.png
+    [size] => 128052
+    [type] => image/png
+    [error] => 0
+)
+Cloudinary\Api\ApiResponse Object
+(
+    [rateLimitResetAt] => 
+    [rateLimitAllowed] => 0
+    [rateLimitRemaining] => 0
+    [headers] => Array
+        (
+            [Date] => Array
+                (
+                    [0] => Wed, 20 Aug 2025 02:04:41 GMT
+                )
+
+            [Content-Type] => Array
+                (
+                    [0] => application/json; charset=utf-8
+                )
+
+            [Transfer-Encoding] => Array
+                (
+                    [0] => chunked
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Accept-Encoding
+                )
+
+            [Status] => Array
+                (
+                    [0] => 200 OK
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => max-age=0, private, must-revalidate
+                )
+
+            [X-XSS-Protection] => Array
+                (
+                    [0] => 1; mode=block
+                )
+
+            [X-Request-Id] => Array
+                (
+                    [0] => 3de7a0ae07c7297fbb76adb6c887e66d
+                )
+
+            [X-UA-Compatible] => Array
+                (
+                    [0] => IE=Edge,chrome=1
+                )
+
+            [ETag] => Array
+                (
+                    [0] => "c65bfe244f03ab88797457708284420f"
+                )
+
+            [Server] => Array
+                (
+                    [0] => cloudinary
+                )
+
+        )
+
+    [storage:ArrayObject:private] => Array
+        (
+            [asset_id] => fc5c9c99eb22e158a053f51eac59545f
+            [public_id] => users_picture_profile/user_68a52cf17006e4.14314958_19b8a7a4e2
+            [version] => 1755655480
+            [version_id] => e0e6a8b829aace7d09d56ba9236d5ab7
+            [signature] => 894da88cbea991f17090371f7feef625736befe2
+            [width] => 775
+            [height] => 775
+            [format] => png
+            [resource_type] => image
+            [created_at] => 2025-08-20T02:04:40Z
+            [tags] => Array
+                (
+                )
+
+            [bytes] => 128052
+            [type] => upload
+            [etag] => 2ef369ffe30166a9749bf9d4fc2430bb
+            [placeholder] => 
+            [url] => http://res.cloudinary.com/dghnwzbla/image/upload/v1755655480/users_picture_profile/user_68a52cf17006e4.14314958_19b8a7a4e2.png
+            [secure_url] => https://res.cloudinary.com/dghnwzbla/image/upload/v1755655480/users_picture_profile/user_68a52cf17006e4.14314958_19b8a7a4e2.png
+            [asset_folder] => users_picture_profile
+            [display_name] => user_68a52cf17006e4.14314958_19b8a7a4e2
+            [original_filename] => avatar3
+            [api_key] => 285744794393346
+        )
+
+)
+Array
+(
+    [name] => avatar3.png
+    [tmp_name] => C:\Users\NathanSpm\Documents\ECE\Projets\Devoir_Substitution\public/assets/avatar3.png
+    [size] => 128052
+    [type] => image/png
+    [error] => 0
+)
+Cloudinary\Api\ApiResponse Object
+(
+    [rateLimitResetAt] => 
+    [rateLimitAllowed] => 0
+    [rateLimitRemaining] => 0
+    [headers] => Array
+        (
+            [Date] => Array
+                (
+                    [0] => Wed, 20 Aug 2025 03:41:14 GMT
+                )
+
+            [Content-Type] => Array
+                (
+                    [0] => application/json; charset=utf-8
+                )
+
+            [Transfer-Encoding] => Array
+                (
+                    [0] => chunked
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Accept-Encoding
+                )
+
+            [Status] => Array
+                (
+                    [0] => 200 OK
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => max-age=0, private, must-revalidate
+                )
+
+            [X-XSS-Protection] => Array
+                (
+                    [0] => 1; mode=block
+                )
+
+            [X-Request-Id] => Array
+                (
+                    [0] => ee942303df1277e66a1282126fd346fa
+                )
+
+            [X-UA-Compatible] => Array
+                (
+                    [0] => IE=Edge,chrome=1
+                )
+
+            [ETag] => Array
+                (
+                    [0] => "609e7d3a2f9fc6e68c32ced0dc0db10a"
+                )
+
+            [Server] => Array
+                (
+                    [0] => cloudinary
+                )
+
+        )
+
+    [storage:ArrayObject:private] => Array
+        (
+            [asset_id] => 25cbac0ca6a1069cd4f226d45bae81d3
+            [public_id] => users_picture_profile/user_68a543926fcc04.09610220_b6eb9867a4
+            [version] => 1755661273
+            [version_id] => d5c083f3de72a4b3b81a5cb98f8d7429
+            [signature] => a791f88e3dbb1a1446a94abb94ba7ef088b68880
+            [width] => 775
+            [height] => 775
+            [format] => png
+            [resource_type] => image
+            [created_at] => 2025-08-20T03:41:13Z
+            [tags] => Array
+                (
+                )
+
+            [bytes] => 128052
+            [type] => upload
+            [etag] => 2ef369ffe30166a9749bf9d4fc2430bb
+            [placeholder] => 
+            [url] => http://res.cloudinary.com/dghnwzbla/image/upload/v1755661273/users_picture_profile/user_68a543926fcc04.09610220_b6eb9867a4.png
+            [secure_url] => https://res.cloudinary.com/dghnwzbla/image/upload/v1755661273/users_picture_profile/user_68a543926fcc04.09610220_b6eb9867a4.png
+            [asset_folder] => users_picture_profile
+            [display_name] => user_68a543926fcc04.09610220_b6eb9867a4
+            [original_filename] => avatar3
+            [api_key] => 285744794393346
+        )
+
+)
+Array
+(
+    [name] => avatar3.png
+    [tmp_name] => C:\Users\NathanSpm\Documents\ECE\Projets\Devoir_Substitution\public/assets/avatar3.png
+    [size] => 128052
+    [type] => image/png
+    [error] => 0
+)
+Cloudinary\Api\ApiResponse Object
+(
+    [rateLimitResetAt] => 
+    [rateLimitAllowed] => 0
+    [rateLimitRemaining] => 0
+    [headers] => Array
+        (
+            [Date] => Array
+                (
+                    [0] => Thu, 28 Aug 2025 07:21:07 GMT
+                )
+
+            [Content-Type] => Array
+                (
+                    [0] => application/json; charset=utf-8
+                )
+
+            [Transfer-Encoding] => Array
+                (
+                    [0] => chunked
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Accept-Encoding
+                )
+
+            [Status] => Array
+                (
+                    [0] => 200 OK
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => max-age=0, private, must-revalidate
+                )
+
+            [X-XSS-Protection] => Array
+                (
+                    [0] => 1; mode=block
+                )
+
+            [X-Request-Id] => Array
+                (
+                    [0] => 962b1cb5ee9e8e2435367c5ce64c618a
+                )
+
+            [X-UA-Compatible] => Array
+                (
+                    [0] => IE=Edge,chrome=1
+                )
+
+            [ETag] => Array
+                (
+                    [0] => "bc2b565a8f5ab8edc665fa146c087d2c"
+                )
+
+            [Server] => Array
+                (
+                    [0] => cloudinary
+                )
+
+        )
+
+    [storage:ArrayObject:private] => Array
+        (
+            [asset_id] => 76c7c096cd83b9549de9bb97a12df543
+            [public_id] => ECE-Cinema/users_picture_profile/avatar__1756365587.
+            [version] => 1756365666
+            [version_id] => c5c1e62f262eba63edd4e9988dbbe722
+            [signature] => e99a6ed256f3b12da4a54aae30f2b3ce21654d88
+            [width] => 775
+            [height] => 775
+            [format] => png
+            [resource_type] => image
+            [created_at] => 2025-08-28T07:21:06Z
+            [tags] => Array
+                (
+                )
+
+            [bytes] => 128052
+            [type] => upload
+            [etag] => 2ef369ffe30166a9749bf9d4fc2430bb
+            [placeholder] => 
+            [url] => http://res.cloudinary.com/dghnwzbla/image/upload/v1756365666/ECE-Cinema/users_picture_profile/avatar__1756365587..png
+            [secure_url] => https://res.cloudinary.com/dghnwzbla/image/upload/v1756365666/ECE-Cinema/users_picture_profile/avatar__1756365587..png
+            [asset_folder] => ECE-Cinema/users_picture_profile
+            [display_name] => avatar__1756365587.
+            [original_filename] => avatar3
+            [api_key] => 285744794393346
+        )
+
+)
+Array
+(
+    [name] => avatar3.png
+    [tmp_name] => C:\Users\NathanSpm\Documents\ECE\Projets\Devoir_Substitution\public/assets/avatar3.png
+    [size] => 128052
+    [type] => image/png
+    [error] => 0
+)
+Cloudinary\Api\ApiResponse Object
+(
+    [rateLimitResetAt] => 
+    [rateLimitAllowed] => 0
+    [rateLimitRemaining] => 0
+    [headers] => Array
+        (
+            [Date] => Array
+                (
+                    [0] => Thu, 28 Aug 2025 08:03:22 GMT
+                )
+
+            [Content-Type] => Array
+                (
+                    [0] => application/json; charset=utf-8
+                )
+
+            [Transfer-Encoding] => Array
+                (
+                    [0] => chunked
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Accept-Encoding
+                )
+
+            [Status] => Array
+                (
+                    [0] => 200 OK
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => max-age=0, private, must-revalidate
+                )
+
+            [X-XSS-Protection] => Array
+                (
+                    [0] => 1; mode=block
+                )
+
+            [X-Request-Id] => Array
+                (
+                    [0] => b638761e3f4cbad57fab2eee4919610d
+                )
+
+            [X-UA-Compatible] => Array
+                (
+                    [0] => IE=Edge,chrome=1
+                )
+
+            [ETag] => Array
+                (
+                    [0] => "e03e48581d7915c7f6fd2ed313013ca4"
+                )
+
+            [Server] => Array
+                (
+                    [0] => cloudinary
+                )
+
+        )
+
+    [storage:ArrayObject:private] => Array
+        (
+            [asset_id] => 713d344f6ef0099df90a725dbab545c8
+            [public_id] => ECE-Cinema/users_picture_profile/avatar__1756368123.
+            [version] => 1756368202
+            [version_id] => 2bd350a18ca13f0368a6e29986a46222
+            [signature] => 1514afd43d7e6818bfc6d7d952ba0347a20adec5
+            [width] => 775
+            [height] => 775
+            [format] => png
+            [resource_type] => image
+            [created_at] => 2025-08-28T08:03:22Z
+            [tags] => Array
+                (
+                )
+
+            [bytes] => 128052
+            [type] => upload
+            [etag] => 2ef369ffe30166a9749bf9d4fc2430bb
+            [placeholder] => 
+            [url] => http://res.cloudinary.com/dghnwzbla/image/upload/v1756368202/ECE-Cinema/users_picture_profile/avatar__1756368123..png
+            [secure_url] => https://res.cloudinary.com/dghnwzbla/image/upload/v1756368202/ECE-Cinema/users_picture_profile/avatar__1756368123..png
+            [asset_folder] => ECE-Cinema/users_picture_profile
+            [display_name] => avatar__1756368123.
+            [original_filename] => avatar3
+            [api_key] => 285744794393346
+        )
+
+)
+Array
+(
+    [name] => avatar3.png
+    [tmp_name] => C:\Users\NathanSpm\Documents\ECE\Projets\Devoir_Substitution\public/assets/avatar3.png
+    [size] => 128052
+    [type] => image/png
+    [error] => 0
+)
+Cloudinary\Api\ApiResponse Object
+(
+    [rateLimitResetAt] => 
+    [rateLimitAllowed] => 0
+    [rateLimitRemaining] => 0
+    [headers] => Array
+        (
+            [Date] => Array
+                (
+                    [0] => Thu, 28 Aug 2025 19:48:11 GMT
+                )
+
+            [Content-Type] => Array
+                (
+                    [0] => application/json; charset=utf-8
+                )
+
+            [Transfer-Encoding] => Array
+                (
+                    [0] => chunked
+                )
+
+            [Connection] => Array
+                (
+                    [0] => keep-alive
+                )
+
+            [Vary] => Array
+                (
+                    [0] => Accept-Encoding
+                )
+
+            [Status] => Array
+                (
+                    [0] => 200 OK
+                )
+
+            [Cache-Control] => Array
+                (
+                    [0] => max-age=0, private, must-revalidate
+                )
+
+            [X-XSS-Protection] => Array
+                (
+                    [0] => 1; mode=block
+                )
+
+            [X-Request-Id] => Array
+                (
+                    [0] => 07e90a19b40cdb30a947f3b0c5c3bab3
+                )
+
+            [X-UA-Compatible] => Array
+                (
+                    [0] => IE=Edge,chrome=1
+                )
+
+            [ETag] => Array
+                (
+                    [0] => "8f56763b95af24917a439f659ed82186"
+                )
+
+            [Server] => Array
+                (
+                    [0] => cloudinary
+                )
+
+        )
+
+    [storage:ArrayObject:private] => Array
+        (
+            [asset_id] => e65a46181ed4f8eae59f5b97115ecd44
+            [public_id] => ECE-Cinema/users_picture_profile/avatar__1756410411.
+            [version] => 1756410490
+            [version_id] => a09a7e2ec85aed18ba899345d7bbba22
+            [signature] => 49c6548eeeafc9f7509980263dc1184e7f61e831
+            [width] => 775
+            [height] => 775
+            [format] => png
+            [resource_type] => image
+            [created_at] => 2025-08-28T19:48:10Z
+            [tags] => Array
+                (
+                )
+
+            [bytes] => 128052
+            [type] => upload
+            [etag] => 2ef369ffe30166a9749bf9d4fc2430bb
+            [placeholder] => 
+            [url] => http://res.cloudinary.com/dghnwzbla/image/upload/v1756410490/ECE-Cinema/users_picture_profile/avatar__1756410411..png
+            [secure_url] => https://res.cloudinary.com/dghnwzbla/image/upload/v1756410490/ECE-Cinema/users_picture_profile/avatar__1756410411..png
+            [asset_folder] => ECE-Cinema/users_picture_profile
+            [display_name] => avatar__1756410411.
+            [original_filename] => avatar3
+            [api_key] => 285744794393346
+        )
+
+)
