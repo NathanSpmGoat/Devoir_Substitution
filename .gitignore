@@ -1,0 +1,29 @@
+# --- Dépendances Composer ---
+/public/vendor/
+
+
+/node_modules/
+
+# --- Logs ---
+*.log
+debug.log
+
+# --- Fichiers temporaires ---
+/tmp/
+/cache/
+
+# --- Environnements et configs sensibles ---
+.env
+.env.local
+.env.*.local
+
+# --- Fichiers système ---
+.DS_Store
+Thumbs.db
+
+# --- VSCode ---
+.vscode/
+
+# --- Autres IDE ---
+.idea/
+*.iml
